@@ -1,0 +1,120 @@
+{
+  "cardBalance": {
+    "limit": 1500,
+    "balance": 17.3
+  },
+  "transactions": [
+    {
+      "id": "1",
+      "type": "Credit",
+      "amount": 14.06,
+      "title": "Apple",
+      "description": "Card Number Used",
+      "date": "2024-01-14T10:30:00Z",
+      "isPending": true,
+      "authorizedUser": "Diana",
+      "iconColor": "#000000",
+      "percentage": "3%"
+    },
+    {
+      "id": "2",
+      "type": "Payment",
+      "amount": 174.0,
+      "title": "Payment",
+      "description": "From JPMorgan Chase Bank Natio...",
+      "date": "2024-01-13T09:00:00Z",
+      "isPending": false,
+      "iconColor": "#ff9500",
+      "percentage": ""
+    },
+    {
+      "id": "3",
+      "type": "Credit",
+      "amount": 3.24,
+      "title": "Apple",
+      "description": "Card Number Used",
+      "date": "2024-01-12T16:45:00Z",
+      "isPending": false,
+      "authorizedUser": "Diana",
+      "iconColor": "#000000",
+      "percentage": "3%"
+    },
+    {
+      "id": "4",
+      "type": "Payment",
+      "amount": 99.71,
+      "title": "Payment",
+      "description": "From JPMorgan Chase Bank Natio...",
+      "date": "2024-01-11T08:15:00Z",
+      "isPending": false,
+      "iconColor": "#ff9500",
+      "percentage": ""
+    },
+    {
+      "id": "5",
+      "type": "Payment",
+      "amount": 73.58,
+      "title": "Payment",
+      "description": "From JPMorgan Chase Bank Natio...",
+      "date": "2024-01-10T14:20:00Z",
+      "isPending": false,
+      "iconColor": "#ff9500",
+      "percentage": ""
+    },
+    {
+      "id": "6",
+      "type": "Credit",
+      "amount": 21.61,
+      "title": "IKEA",
+      "description": "Round Rock, TX",
+      "date": "2022-10-01T11:30:00Z",
+      "isPending": false,
+      "iconColor": "#0066cc",
+      "percentage": "2%"
+    },
+    {
+      "id": "7",
+      "type": "Credit",
+      "amount": 73.58,
+      "title": "Target",
+      "description": "Cedar Park, TX",
+      "date": "2022-09-28T18:00:00Z",
+      "isPending": false,
+      "iconColor": "#CC0000",
+      "percentage": "2%"
+    },
+    {
+      "id": "8",
+      "type": "Credit",
+      "amount": 45.99,
+      "title": "Amazon",
+      "description": "Online Purchase",
+      "date": "2022-09-25T14:22:00Z",
+      "isPending": false,
+      "iconColor": "#232F3E",
+      "percentage": "1%"
+    },
+    {
+      "id": "9",
+      "type": "Credit",
+      "amount": 12.5,
+      "title": "Starbucks",
+      "description": "Coffee & Pastry",
+      "date": "2022-09-23T08:15:00Z",
+      "isPending": false,
+      "iconColor": "#00704A",
+      "percentage": ""
+    },
+    {
+      "id": "10",
+      "type": "Payment",
+      "amount": 250.0,
+      "title": "Payment",
+      "description": "From JPMorgan Chase Bank Natio...",
+      "date": "2022-09-20T16:30:00Z",
+      "isPending": false,
+      "iconColor": "#ff9500",
+      "percentage": ""
+    }
+  ]
+}
